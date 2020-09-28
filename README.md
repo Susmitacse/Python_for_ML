@@ -8,3 +8,4 @@ Here is the basics of python implementation necessary for Machine Learning.
 5. Pandas
 6. Matplotlib
 7.Seaborn
+# mercedesbenz.csv file is used in PANDAS
