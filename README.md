@@ -1,5 +1,5 @@
-# Python_for_ML
-This .pynb file contains all the basics of python implementation necessary for Machine Learning.
+# Python for Machine Learning
+Here is the basics of python implementation necessary for Machine Learning.
 
 1. Lists
 2. Dictionary
